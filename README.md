@@ -1,6 +1,20 @@
 # Some Tips for the AO Simulation
 
+## Scheduling New Routes
+
+### Selecting City Pairs
+When scheduling a new route, a list of airports from external sources, such as the Wikipedia page [here](https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic) and [here](https://en.wikipedia.org/wiki/Category:Lists_of_busiest_airports), can be helpful as a starting point. However, always verify the sector demand in-game, as the simulation does not reflect reality perfectly. Note that the game marks some international airports as domestic. Some sectors may have a surprisingly high demand, so look out for them and capitalise on them. (Look at ORD-BOS for a taste of what you might be able to find!)
+
+### Creating Flight Schedules
+Avoid over-complicating flight routes. It is much easier to create and maintain schedules with 2-3 destinations. More complex schedules make modifying flights more challenging and are generally unnecessary unless the flights are cargo-only. This strategy promotes logical route development by encouraging the establishment of hubs in high-demand areas, where flights to and from these hubs are typically in higher demand. As the size of your fleet grows, you may also find it convenient to name your aircraft according to the routes they operate.
+
+### Considering Route Distance
+Be mindful of the distance of your routes. Although shorter routes yield more expensive tickets per kilometer, frequent short flights reduce the total flying time an aircraft can achieve due to increased layover times. Balancing between flight distance and frequency is key to optimizing operational efficiency.
+
 ## Struggling to Turn a Profit?
+
+### Hire Managers
+Although the game allows players to operate without hiring any managers, they are crucial to your operations. Always hire every type of manager available at **STAFFING > MANAGERS**. The cost of hiring them is minuscule compared to the amount of critical information you would miss out on without their insights.
 
 ### Check Profitability in City Pairs
 Check profitability in the **CITY PAIR DATA** for each city pair. Using **HISTORICAL DATA**, select the last quarter (e.g., 2025q2) and the city pair of interest.
@@ -15,9 +29,6 @@ Identify profitable sectors and consider increasing the frequency of flights. It
 
 ### Maximise Aircraft Utilisation
 If you are leasing most of your aircraft, consider maximising their hours in the air to distribute the cost of leasing over more flights.
-
-### Scheduling New Routes
-When scheduling a new route, a list of airports from external sources, such as the Wikipedia page [here](https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic) and [here](https://en.wikipedia.org/wiki/Category:Lists_of_busiest_airports), can be helpful as a starting point. However, always verify the sector demand in-game, as the simulation does not reflect reality perfectly. Note that the game marks some international airports as domestic. Some sectors may have a surprisingly high demand, so look out for them and capitalise on them. (Look at ORD-BOS for a taste of what you might be able to find!)
 
 ## Already Turning a Profit?
 
