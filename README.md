@@ -17,7 +17,7 @@ Identify sectors that are profitable and consider increasing the frequency of fl
 If you are leasing most of your aircraft, consider maximising their hours in the air to distribute the cost of leasing over more flights.
 
 ### Scheduling New Routes
-When scheduling a new route, a list of airports from external sources, such as the Wikipedia page [here](https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic), can be helpful as a starting point. However, always verify the demand of the sector in-game, as the simulation is not a perfect reflection of reality. Note that some international airports are marked as domestic in-game. Some sectors may have surprisingly high demand, so look out for them and capitalise on them. (Look at ORD-BOS for a taste of what you might be able to find!)
+When scheduling a new route, a list of airports from external sources, such as the Wikipedia page [here](https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic) and [here](https://en.wikipedia.org/wiki/Category:Lists_of_busiest_airports), can be helpful as a starting point. However, always verify the demand of the sector in-game, as the simulation is not a perfect reflection of reality. Note that some international airports are marked as domestic in-game. Some sectors may have surprisingly high demand, so look out for them and capitalise on them. (Look at ORD-BOS for a taste of what you might be able to find!)
 
 ## Already Turning a Profit?
 
