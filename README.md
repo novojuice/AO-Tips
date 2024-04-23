@@ -1,6 +1,6 @@
 # Some Tips for the AO Simulation
 
-## Scheduling New Routes
+## Scheduling Routes
 
 ### Selecting City Pairs
 When scheduling a new route, a list of airports from external sources, such as the Wikipedia page [here](https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic) and [here](https://en.wikipedia.org/wiki/Category:Lists_of_busiest_airports), can be helpful as a starting point. However, always verify the sector demand in-game, as the simulation does not reflect reality perfectly. Note that the game marks some international airports as domestic. Some sectors may have a surprisingly high demand, so look out for them and capitalise on them. (Look at ORD-BOS for a taste of what you might be able to find!)
@@ -10,6 +10,9 @@ Avoid over-complicating flight routes. It is much easier to create and maintain 
 
 ### Considering Route Distance
 Be mindful of the distance of your routes. Although shorter routes yield more expensive tickets per kilometer, frequent short flights reduce the total flying time an aircraft can achieve due to increased layover times. Balancing between flight distance and frequency is key to optimizing operational efficiency.
+
+### You Don't Always Need a New Route
+When an existing route is profitable and has extra demand, consider duplicating it for higher frequency. You might need to stagger the new schedule by an hour or a day to ensure that you do not exceed the airport's maximum departures per hour.
 
 ## Struggling to Turn a Profit?
 
