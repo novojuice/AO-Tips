@@ -33,4 +33,4 @@ If you are leasing most of your aircraft, consider maximising their hours in the
 ## Already Turning a Profit?
 
 ### Calculate ROI
-Consider calculating the ROI using **NET PROFIT / TOTAL EXPENSES** to help determine what makes some sectors more successful.
+Consider calculating the ROI using **NET PROFIT / TOTAL EXPENSES** to help determine which sectors are more successful and why.
