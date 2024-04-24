@@ -27,7 +27,7 @@ If there is a net loss in the sector, check the **DEMAND ANALYSIS** to see if th
 ### Assess Load Factor
 If demand exists and there is still a loss, check the **LOAD FACTOR**. A load factor substantially lower than 70% often suggests errors in airline-wide policy configuration.
 
-### Increase Frequency on Profitable Sectors
+### Reallocate Resources
 Identify profitable sectors and consider increasing the frequency of flights. It might be preferable to eliminate low-demand sectors, reallocating the aircraft to more viable routes.
 
 ### Maximise Aircraft Utilisation
